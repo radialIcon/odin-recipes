@@ -1,0 +1,25 @@
+* {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h1 {
+  color: red;
+  background-color: yellow;
+  font-weight: bolder;
+}
+
+h2, p {
+  color:blueviolet
+}
+
+div {
+  text-align: center;
+}
+
+#much {
+  color: yellowgreen;
+}
+
+.much {
+  color: aquamarine;
+}
